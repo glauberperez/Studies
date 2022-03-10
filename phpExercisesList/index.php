@@ -40,7 +40,7 @@
                 </table>    
             </div>
             <?php
-               echo("oi")
+               echo("oi");
             ?>
         </body>
 </html>
