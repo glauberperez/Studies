@@ -13,5 +13,7 @@
         <input type="number" name="numId" id="numId">   
         <button type="submit">Enviar</button>
     <form>
+    <?php
+    ?>
 </body>
 </html>
