@@ -20,5 +20,7 @@
         <input type="number" name="placaId" id="placaId">
         <button type="submit">Enviar</button>
     </form>
+    <?php 
+    ?>
 </body>
 </html>
